@@ -1574,6 +1574,12 @@
     "/hit/hitgs": [
         "hlmu"
     ],
+    "/hit/jwc": [
+        "lty96117"
+    ],
+    "/hit/today/:category": [
+        "ranpox"
+    ],
     "/hizu/:column?": [
         "nczitzk"
     ],
@@ -4237,8 +4243,6 @@
     "/njtech/jwc": [],
     "/hhu/libNews": [],
     "/hhu/libNewsc": [],
-    "/hit/jwc": [],
-    "/hit/today/:category": [],
     "/hitsz/article/:category?": [],
     "/hitwh/today": [],
     "/shanghaitech/activity": [],
