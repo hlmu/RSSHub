@@ -1165,6 +1165,12 @@
     "/filmdeepfocus/:category?": [
         "nczitzk"
     ],
+    "/finviz/news/:ticker": [
+        "HenryQW"
+    ],
+    "/finviz/:category?": [
+        "nczitzk"
+    ],
     "/firefox/breaches": [
         "TonyRL"
     ],
@@ -3142,6 +3148,9 @@
     "/samsung/research/blog": [
         "nczitzk"
     ],
+    "/saraba1st/thread/:tid": [
+        "zengxs"
+    ],
     "/science/cover": [
         "yech1990",
         "TonyRL"
@@ -4778,7 +4787,6 @@
     "/mit/ocw-top": [],
     "/mit/csail/news": [],
     "/kpmg/insights": [],
-    "/saraba1st/thread/:tid": [],
     "/gradcafe/result/:type": [],
     "/gradcafe/result": [],
     "/shuhui/comics/:id": [],
@@ -5097,7 +5105,6 @@
     "/google/news/:category/:locale": [],
     "/p-articles/section/:section": [],
     "/p-articles/contributors/:author": [],
-    "/finviz/news/:ticker": [],
     "/haohaozhu/whole-house/:keyword?": [],
     "/haohaozhu/discover/:keyword?": [],
     "/kuaidi100/track/:number/:id/:phone?": [],
